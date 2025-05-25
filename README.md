@@ -1,5 +1,6 @@
 # CJOBDD2
-Trabalho final de banco de dados 
 
+Repositório destinado ao Projeto Final da disciplina **Banco de Dados II**.
 
-Projeto de conclusão de materia(Banco de Dados 2) 
+## Conteúdo
+- `Projeto Final - SQL.pdf`: Relatório completo em conformidade com as normas ABNT.
